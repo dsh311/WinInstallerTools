@@ -9,7 +9,7 @@ WinInstallerTools is a collection of utilities focused on analyzing, extracting,
 The toolkit begins with support for two common installer technologies:
 
 - **MSIDumper** — tools for Microsoft Installer (`.msi`) packages  
-- **NSISDumper** — tools for Nullsoft Scriptable Install System (`.exe`) installers  
+- **NSISDumper** — tools for Nullsoft Scriptable Install System (`.exe`) installers (CODE NOT INCLUDED YET)  
 
 Additional installer formats are planned for future releases.
 
@@ -51,7 +51,7 @@ Planned capabilities include:
 
 ---
 
-## 📁 NSISDumper
+## 📁 NSISDumper (CODE NOT INCLUDED YET)
 
 Located in:
 
